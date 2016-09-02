@@ -1,0 +1,24 @@
+<header class="clearfix">
+  <div class="wrapper">
+    <a class="logo" href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a>
+    <nav class="nav">
+      <a href="#" class="menu-icon">
+        <span>&#9776;</span> Menu
+      </a>
+        <div class="nav-cover" style="display: none;">
+          <a href="#" class="menu-close">
+            <span>&#10005;</span> Menu
+          </a>
+          <ul>
+          {% assign pages = site.pages | sort: 'position' %}
+          {% for page in pages %}
+            {% if page.title %}
+              <li><a href="{{page.url}}" class="page-link{% if page.url == url %} selected{% endif %}">{{page.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+    </nav>
+
+  </div>
+</header>

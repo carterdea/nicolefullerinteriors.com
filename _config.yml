@@ -1,0 +1,46 @@
+---
+title: Nicole Fuller Interiors
+timezone: UTC
+collections:
+  interiors:
+    title: Interiors
+    output: true
+    layout: interior-detail
+    awards:
+    - 
+    images:
+    - 
+  posts:
+    title: Posts
+    output: true
+  press:
+    title: Press
+    output: false
+  products:
+    title: Products
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: interiors
+    type: interior
+  values:
+    layout: interior-detail
+email: info@nicolefullerinteriors.com
+phone: "(646) 476-2996"
+description: Offices in New York City and Los Angeles
+baseurl: 
+url: http://nicolefullerinteriors.com
+instagram_username: NicoleFullerInteriors
+facebook_url: 
+pinterest_username: nicolefullerint
+twitter_username: NicoleFullerInt
+markdown: kramdown
+press_kit_url: "/uploads/Nicole Fuller Interiors Press Kit.pdf"

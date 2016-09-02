@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="wrapper clearfix">
+  <h1>{{ page.title }}</h1>
+  {% if site.press_kit_url %}
+    <a href="{{ site.press_kit_url }}" class="button press-kit">Download Press Kit</a>
+  {% endif %}
+</div><!--.wrapper-->
+<div class="content clearfix">
+  <ul>
+    {% assign press = site.press | sort: 'position' %}
+    {% for press in press %}
+      <li class="press-detail">
+        {% if press.publication_url %}
+          <a href="{{ press.publication_url }}">
+        {% elsif press.fullsize_image %}
+          <a href="{{ press.fullsize_image }}" data-featherlight="image">
+        {% endif %}
+          <img src="{{ press.thumbnail_image }}" alt="{{ press.title }}">
+        {% if press.publication_url %}
+          </a>
+        {% endif %}
+        <div class="meta-data">
+          <h2>
+            {% if press.publication_url %}
+              <a href="{{ press.publication_url }}">
+            {% elsif press.fullsize_image %}
+              <a href="{{ press.fullsize_image }}">
+            {% endif %}
+              {{ press.publication }}
+            </a>
+          </h2>
+          <h3>{{ press.article_title }}</h3>
+          <p class="date">{{ press.publish_date | date: "%B %Y" }}</p>
+          {{ press.content }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% include bottom-cta.html %}
+<script type="text/javascript" src="{{ "/js/featherlight.min.js" | prepend: site.baseurl }}"></script>

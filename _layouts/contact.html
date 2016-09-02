@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<article class="page wrapper clearfix">
+  <h1>{{ page.title }}</h1>
+  {% if page.hero_image %}
+    <img src="{{ page.hero_image}}" alt="{{ page.title }}" class="hero">
+  {% endif %}
+  <div class="content">
+    <div class="description">
+      {{ content }}
+    </div>
+    <div class="contact-info">
+      {% if page.phone %}
+        <h3>Phone</h3>
+        <p>{{ page.phone }}</p>
+      {% endif %}
+      {% if page.fax %}
+        <h3>Fax</h3>
+        <p>{{ page.fax }}</p>
+      {% endif %}
+      {% if page.email %}
+        <h3>Email</h3>
+        <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+      {% endif %}
+      {% if page.press %}
+        <h3>Press Inquiries</h3>
+        <p><a href="mailto:{{ page.press }}">{{ page.press }}</a></p>
+      {% endif %}
+      {% if page.employment %}
+        <h3>Employment Opportunities</h3>
+        <p><a href="mailto:{{ page.employment }}">{{ page.employment }}</a></p>
+      {% endif %}
+    </div><!--contact-info-->
+    <div class="social">
+      <h3>Follow Nicole</h3>
+      <ul class="social-media">
+        {% if site.instagram_username %}
+          <li class="instagram"><a href="http://instagram.com/{{ site.instagram_username }}">Instagram</a></li>
+        {% endif %}
+        {% if site.pinterest_username %}
+          <li class="pinterest"><a href="http://pinterest.com/{{ site.pinterest_username }}">Pinterest</a></li>
+        {% endif %}
+        {% if site.facebook_url %}
+          <li class="facebook"><a href="http://facebook.com/{{ site.facebook_url }}">Facebook</a></li>
+        {% endif %}
+        {% if site.twitter_username %}
+          <li class="twitter"><a href="http://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+        {% endif %}
+      </ul>
+    </div><!--social-->
+  </div><!--content-->
+</article>

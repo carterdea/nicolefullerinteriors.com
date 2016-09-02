@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <h2>Interiors</h2>
+  <h1>{{ page.title }}</h1>
+</div><!--wrapper-->
+
+<img src="{{ page.main_image }}" alt="{{ page.title }} | {{ page.location }} | By Nicole Fuller Interiors" class="interior-image" style="opacity: 0;">
+
+<div class="content wrapper clearfix">
+  <div class="description">
+    <h3>Description</h3>
+    {{content}}
+  </div>
+  <div class="meta-data">
+    {% if page.location %}
+      <h3>Location</h3>
+      <p>{{ page.location }}</p>
+    {% endif %}
+    {% if page.type %}
+      <h3>Type</h3>
+      <p>{{ page.type }}</p>
+    {% endif %}
+    {% if page.awards %}
+      <h3>Awards and Mentions</h3>
+      <ul>
+        {% for award in page.awards %}
+          <li>{{award}}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div><!--.meta-data-->
+</div><!--wrapper-->
+
+{% for image in page.images %}
+  <img src="{{ image.image }}" alt="{{ page.title }} | {{ page.location }} | By Nicole Fuller Interiors" class="interior-image {{ image.class }}" style="opacity: 0;">
+{% endfor %}
+
+<div class="wrapper">
+  <h2>More Interiors</h2>
+  <ul class="extra-interiors clearfix">
+    {% if page.previous and page.previous.is_live %}
+      <li>
+        <a href="{{ page.previous.url }}">
+          <img src="{{ page.previous.thumbnail_image }}" alt="Previous Project: {{ page.previous.title }}">
+          <div class="meta-data">
+            <div> <!--this div is so I can center this stuff-->
+              <h2>{{ page.previous.title }}</h2>
+              <h3>{{ page.previous.location }}</h3>
+            </div>
+          </div><!--meta-data-->
+        </a>
+      </li>
+    {% else %}
+      {% assign previous_interior = site.interiors | where: 'is_live', 'true' | sample %}
+      <li>
+        <a href="{{ previous_interior.url }}">
+          <img src="{{ previous_interior.thumbnail_image }}" alt="Another Project: {{ previous_interior.title }}">
+          <div class="meta-data">
+            <div> <!--this div is so I can center this stuff-->
+              <h2>{{ previous_interior.title }}</h2>
+              <h3>{{ previous_interior.location }}</h3>
+            </div>
+          </div><!--meta-data-->
+        </a>
+      </li>
+    {% endif %}
+
+    {% if page.next and page.next.is_live %}
+      <li>
+        <a href="{{ page.next.url }}">
+          <img src="{{ page.next.thumbnail_image }}" alt="Next Project: {{ page.next.title }}">
+          <div class="meta-data">
+            <div> <!--this div is so I can center this stuff-->
+              <h2>{{ page.next.title }}</h2>
+              <h3>{{ page.next.location }}</h3>
+            </div>
+          </div><!--meta-data-->
+        </a>
+      </li>
+    {% else %}
+      {% assign next_interior = site.interiors | where: 'is_live', 'true' | sample %}
+      <li>
+        <a href="{{ next_interior.url }}">
+          <img src="{{ next_interior.thumbnail_image }}" alt="Another Project: {{ next_interior.title }}">
+          <div class="meta-data">
+            <div> <!--this div is so I can center this stuff-->
+              <h2>{{ next_interior.title }}</h2>
+              <h3>{{ next_interior.location }}</h3>
+            </div>
+          </div><!--meta-data-->
+        </a>
+      </li>
+    {% endif%}
+  </ul>
+</div><!--.wrapper-->
+{% include bottom-cta.html %}

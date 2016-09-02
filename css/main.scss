@@ -1,0 +1,926 @@
+---
+---
+
+/*******Reset*******/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*******Typography*******/
+
+body {
+  color: #111;
+  font: 12px/1.4 'Proxima Nova', proxima-nova, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 16px;
+  letter-spacing: 3px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 14px;
+  letter-spacing: 2px;
+  margin: 8px 0 3px;
+  text-transform: uppercase;
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
+
+h3 {
+  color: #666;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/*******Colors*******/
+
+body {
+  background: #fff;
+}
+
+
+/*******Global*******/
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a {
+  color: #111;
+  text-transform: uppercase;
+}
+
+p {
+  margin-bottom: 8px;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.wrapper {
+  margin: 0 10px;
+}
+
+@media (min-width: 500px) {
+
+  p {
+    font-size: 13px;
+  }
+
+  .wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 95%;
+  }
+}
+
+.about .content ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+
+/*******Button*******/
+
+.button {
+  border: 1px solid #111;
+  display: inline-block;
+  padding: 8px 15px 6px;
+  text-decoration: none;
+}
+
+
+/*******Header*******/
+
+header {
+  padding: 16px 0;
+}
+
+.logo {
+  background: url('../img/nicole-fuller-interiors-logo-black.png') no-repeat top left;
+  background-size: 100%;
+  display: block;
+  float: left;
+  height: 33px;
+  width: 140px;
+  span {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 500px) {
+  .logo {
+    width: 200px;
+    height: 54px;
+  }
+}
+
+@media (min-width: 800px) {
+  .logo {
+    width: 250px;
+    height: 60px;
+  }
+}
+
+/*******Nav*******/
+
+.menu-icon,
+.menu-close {
+  background: url('../img/menu-black.png') no-repeat center left;
+  background-size: 24px;
+  font-size: 16px;
+  font-weight: 300;
+  float: right;
+  letter-spacing: 3px;
+  line-height: 1;
+  padding-top: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu-close {
+  background: url('../img/menu-close.png') no-repeat top left;
+  background-size: 24px;
+  height: 24px;
+}
+
+.menu-icon span,
+.menu-close span {
+  display: inline-block;
+  width: 24px;
+  visibility: hidden;
+}
+
+.menu-close span {
+  margin-top: 3px; // this lines up the MENU text & the X w/ the regular menus Text & the Menu Icon
+}
+
+header nav {
+  position: relative;
+  z-index: 11; // had to do this to make it show up higher than the unslider :(
+}
+
+.nav-cover {
+  // display: none; This is now inline so the jquery .show()/.hide() can manipulate it
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  position: fixed;
+  background: #3d3d3d;
+  background: rgba(0,0,0,0.7);
+  left: 0;
+  height: 100vh;
+  padding: 13px 10px 2px;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.nav-cover ul {
+  margin-top: 80px;
+}
+
+.nav-cover ul li {
+  font-size: 17px;
+  letter-spacing: 2px;
+  margin-bottom: 26px;
+}
+
+.nav-cover a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.home .nav-cover a {
+  color: #fff;
+}
+
+@media (min-width: 700px) {
+  nav {
+    float: right;
+  }
+
+  .menu-icon,
+  .menu-close {
+    display: none;
+  }
+
+  .nav-cover {
+    backdrop-filter: blur(0);
+    -webkit-backdrop-filter: blur(0);
+    background: none;
+    display: block !important;
+    height: inherit;
+    position: relative;    
+  }
+
+  .nav-cover ul {
+    margin-top: 0;
+  }
+
+  .nav-cover ul li {
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 15px;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+
+  .nav-cover a {
+    color: #111;
+  }
+}
+
+@media (min-width: 800px) {
+  .nav-cover ul li {
+    margin-left: 25px;
+  }
+}
+
+
+/*******Footer*******/
+
+footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer ul.social-media {
+  margin: 15px 0;
+}
+
+footer ul.social-media a {
+  display: block;
+  height: 22px;
+  margin-left: 0;
+  text-transform: none;
+  width: 22px;
+}
+
+footer ul.social-media li {
+  display: inline-block;
+  margin: 0 0 6px 10px;
+}
+
+footer ul.social-media li span {
+  display: none;
+}
+
+footer ul.social-media .twitter {
+  background: url(../img/social-twitter.png) no-repeat center left;
+  background-size: 22px;
+}
+footer ul.social-media .facebook {
+  background: url(../img/social-facebook.png) no-repeat center left;
+  background-size: 22px;
+}
+footer ul.social-media .pinterest {
+  background: url(../img/social-pinterest.png) no-repeat center left;
+  background-size: 22px;
+}
+footer ul.social-media .instagram {
+  background: url(../img/social-instagram.png) no-repeat center left;
+  background-size: 22px;
+}
+
+footer a {
+  color: #ccc;
+  text-decoration: none;
+  text-transform: none;
+}
+
+footer p.description,
+footer p.copyright {
+  color: #777;
+}
+
+@media(min-width: 500px) {
+}
+
+/*******Home*******/
+
+.home header {
+  position: absolute;
+  width: 100%;
+}
+
+.home .logo {
+  background-image: url('../img/nicole-fuller-interiors-logo-white.png');
+  position: relative;
+  z-index: 100;
+}
+
+.home .menu-icon {
+  background-image: url('../img/menu-white.png');
+  color: #fff;
+}
+
+.home .hero {
+  height: 340px;
+  overflow: hidden;
+  position: relative;
+}
+
+.home .hero ul.unslider-wrap {
+  list-style-type: none;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.home .hero li {
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 200%;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.home .hero li a {
+  display: block;
+  height: 80%;
+  margin-top: 20%;
+}
+
+.homepage-thumbnail {
+  margin: 10px;
+  display: inline-block;
+  &:first-child {
+    margin-bottom: 0;
+  }
+}
+
+.home .about {
+  margin: 0 10px 10px; // This is to make the about piece match the other 2 buckets
+}
+
+@media (min-width: 500px) {
+  .home .hero {
+    min-height: 500px;
+    height: 90vh;
+  }
+
+  .home .hero li {
+    background-size: cover;
+  }
+
+  .home .hero li a {
+    height: 80vh;
+    margin-top: 20vh;
+  }
+
+  .homepage-thumbnail {
+    float: left;
+    margin: 2%;
+    width: 47%;
+  }
+
+  .homepage-thumbnail.interiors {
+    margin-right: 1%;
+  }
+
+  .homepage-thumbnail.products {
+    margin-left: 1%;
+  }
+
+  .homepage-thumbnail img {
+    width: 100%;
+  }
+
+  .home .about {
+    margin: 0 auto 10px; // This is to override the weird margins
+  }
+
+  .home .about-image {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 300px;
+  }
+
+  .home .about-text {
+    padding-top: 20px; 
+  }
+}
+
+/*******Interiors*******/
+
+.interiors .content ul {
+  list-style-type: none;
+}
+
+.interiors .content li {
+  float: left;
+  margin: 1% 2%;
+  position: relative;
+  width: 47%;
+}
+
+.interiors .content li:nth-child(odd) {
+  clear: left;
+  margin-right: 1%
+}
+
+.interiors .content li:nth-child(even) {
+  margin-left: 1%;
+}
+
+.interiors .content a,
+.extra-interiors a,
+.touch .interiors .content a {
+  background: #000;
+  color: #fff;
+  display: block;
+  position: relative;
+  text-decoration: none;
+}
+
+.interiors .content a .interior-detail {
+  width: 100%;
+}
+
+.interior-detail .content {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.interior-detail .content .meta-data li {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.interior-detail .extra-interiors li {
+  float: left;
+  margin-right: 1%;
+  width: 49%;
+}
+
+.interior-detail .extra-interiors li:nth-child(even) {
+  margin: 0 0 0 1%;
+}
+
+.interiors .content a img,
+.extra-interiors a img {
+  -webkit-backface-visibility: hidden; // This is to keep the image from scaling a tiny bit when the user hovers see http://stackoverflow.com/questions/15464055/css-transition-effect-makes-image-blurry-moves-image-1px-in-chrome
+  -webkit-transform: translateZ(0) scale(1.0, 1.0);
+  opacity: .5;
+}
+
+.interiors .coming-soon {
+  background: #000;
+  height: 50px;
+  padding: 50% 0;
+  width: 100%;
+}
+
+.interiors .content li .meta-data,
+.extra-interiors li .meta-data {
+    align-items: center;
+    display: flex;
+    flex:1; // Attempting fix iPad Safari bug: http://stackoverflow.com/questions/33502774/flexbox-not-working-on-ipad-and-safari
+    height: 100%;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.interiors li .meta-data h2,
+.interiors li .meta-data h3,
+.extra-interiors li .meta-data h2,
+.extra-interiors li .meta-data h3 {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.interiors .content li .meta-data h3,
+.extra-interiors .meta-data h3 {
+  color: #bbb;
+}
+
+.interiors .coming-soon h2 {
+  color: #fff;
+}
+
+.extra-interiors {
+  margin: 10px 0 20px;
+}
+
+@media (min-width: 700px) {
+  .interior-detail .content {
+    margin: 20px auto;
+  }
+  .interior-detail .description {
+    float: left;
+    width: 66%;
+  }
+
+  .interior-detail .content .meta-data {
+    float: right;
+    width: 30%;
+  }
+
+  .interiors .content a img,
+  .extra-interiors a img {
+    opacity: 1;
+    transition: opacity 0.5s;
+  }
+
+  .interiors .content a .meta-data,
+  .extra-interiors a .meta-data {
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+
+  .interiors .content a:hover img,
+  .extra-interiors a:hover img {
+    opacity: .5;
+    transition: opacity 0.5s;
+  }
+
+  .interiors .content a:hover .meta-data,
+  .extra-interiors a:hover .meta-data {
+    opacity: 1;
+    transition: opacity 0.5s;
+  }
+
+  .touch .interiors .content a .meta-data {
+    opacity: 1;
+  }
+
+  .touch .interiors .content a img {
+    opacity: .5;
+  }
+}
+
+.interior-image {
+  width: 98%;
+  margin: 0.5% 1%;
+}
+
+.interior-image.vertical {
+  float: left;
+  width: 48.5%;
+}
+
+.interior-image.vertical.left {
+  margin-right: .5%;
+}
+
+.interior-image.vertical.right {
+ margin-left: .5%; 
+}
+
+/*******Products*******/
+
+.products .content ul {
+  list-style-type: none;
+}
+
+.products .content ul li {
+  margin-bottom: 15px;
+  margin: 10px;
+}
+
+.products .product img {
+  width: 100%;
+}
+
+.products img.product-logo {
+  width: auto;
+}
+
+.products .coming-soon {
+  background: #000;
+  height: 60vw;
+  width: 100%;
+}
+
+.products .coming-soon .meta-data {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+.products .coming-soon h2,
+.products .coming-soon h3 {
+  display: block;
+  text-align: center;
+}
+
+.products .coming-soon h2 {
+  color: #fff;
+}
+
+.products .coming-soon h3 {
+  color: #bbb;
+}
+
+.products .product-logo {
+  max-width: 50%;
+  max-height: 50px;
+  margin: 10px 0;
+}
+
+@media (min-width: 500px) {
+  .products li.product {
+    float: left;
+    margin: 1% 2%;
+    width: 47%;
+  }
+
+  .products li.product:nth-child(odd) {
+    clear: left;
+    margin-right: 1%;
+  }
+
+  .products li.product:nth-child(even) {
+    margin-left: 1%;
+  }
+
+  .products .coming-soon {
+    height: 30.25vw;
+  }
+}
+
+@media (min-width: 800px) {
+  .products img.product-logo {
+    float: left;
+    margin-right: 20px;
+    width: 25%;
+    &.the-rug-company {
+      margin: 10px 4%;
+      max-height: 150px;
+      max-width: 100px;
+      width: 20%;
+    }
+  }
+
+  .product .meta-data {
+    float: right;
+    margin-top: 10px;
+    width: 70%;
+  }
+
+  .product .coming-soon .meta-data {
+    margin-top: 0;
+    width: 100%;
+  }
+}
+
+/*******Press*******/
+
+.press h1 {
+  float: left;
+}
+
+.press .button.press-kit {
+  float: right;
+  margin-top: -8px;
+}
+
+.press ul {
+  list-style-type: none;
+}
+
+.press .press-detail {
+  margin: 4%;
+}
+
+.press .meta-data h2 {
+  font-size: 15px;
+  margin: 4px 0 0;
+}
+
+.press .meta-data h3 {
+  color: #111;
+  font-size: 13px;
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  text-transform: none;
+}
+
+.press .meta-data p.date {
+  font-size: 13px;
+  color: #666;
+}
+
+// http://stackoverflow.com/questions/32148937/featherlight-js-large-images-still-scrolling lol
+.featherlight-image {
+  width: auto !important;
+  height: auto !important;
+  max-width: 100%;
+  max-height: 80vh;
+}
+
+@media (min-width: 500px) {
+  .press .press-detail {
+    float: left;
+    margin: 1% 2%;
+    width: 47%;
+  }
+
+  .press .press-detail:nth-child(odd) {
+    clear: left;
+    margin-right: 1%;
+  }
+
+  .press .press-detail:nth-child(even) {
+    margin-left: 1%;
+  }
+}
+
+/*******About*******/
+
+.about img.hero {
+  width: 100%;
+}
+
+.about .content {
+  margin: 0 auto 30px;
+  max-width: 600px;
+}
+
+.about .press-kit {
+  margin-top: 20px;
+}
+
+.about .hero {
+  margin-bottom: 10px;
+}
+
+#our-approach-and-offerings {
+  clear: left;
+}
+
+@media (min-width: 400px) {
+  .about .content img {
+    float: left;
+    max-width: 30%;
+    margin: 20px 20px 10px 0;
+  }
+}
+
+/*******Contact*******/
+
+.contact .hero,
+.contact .description {
+  margin-bottom: 25px;
+}
+
+.content .social-media {
+  margin-top: 10px;
+}
+
+.contact .content a {
+  text-transform: none;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+ul.social-media a {
+  margin-left: 26px;
+  text-decoration: none;
+  text-transform: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+ul.social-media li {
+  margin-bottom: 10px;
+  padding: 3px 0 1px;
+}
+
+.content ul.social-media .twitter {
+  background: url(../img/social-dark-twitter.png) no-repeat center left;
+  background-size: 20px;
+}
+.content ul.social-media .facebook {
+  background: url(../img/social-dark-facebook.png) no-repeat center left;
+  background-size: 20px;
+}
+.content ul.social-media .pinterest {
+  background: url(../img/social-dark-pinterest.png) no-repeat center left;
+  background-size: 20px;
+}
+.content ul.social-media .instagram {
+  background: url(../img/social-dark-instagram.png) no-repeat center left;
+  background-size: 20px;
+}
+
+@media (min-width: 500px) {
+  .contact .content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+
+  .contact-info,
+  .social {
+    float: left;
+    margin-bottom: 20px;
+    width: 45%;
+  }
+
+  .contact-info p,
+  .content .social-media li {
+    font-size: 15px;
+  }
+
+  .social {
+    float: right;
+  }
+}
+
+/*******Bottom CTA*******/
+.bottom-cta {
+  background: #ddd;
+  margin-top: 10px;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.bottom-cta .wrapper {
+  max-width: 440px;
+}
+
+.bottom-cta p {
+  margin-bottom: 20px;
+}
+
