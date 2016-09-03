@@ -8,17 +8,20 @@ The beginnings of the Nicole Fuller Site. We've made some progress, but still ha
 1. Install Jekyll
 1. Run `Jekyll Serve`
 
-TODO:
-- Header
-- Footer
+Collections:
 - Interiors
 - Products
 - Press
 
+Partials:
+- Header
+- Head
+- Footer
+- Bottom CTA (contact)
+
 *Layouts:*
 - Page
 - Interior Detail
-
-*Random Stuff*
-- Next/Previous Interior
-- About Include
+- Interiors
+- Products
+- Press
