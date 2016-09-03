@@ -46,6 +46,7 @@ awards:
 - 'International Property Award: Best Residence 2014'
 is_live: true
 layout: interior-detail
+redirect_from: "/Residential/Suffern.html"
 ---
 
 The owners of this upstate New York home are a young and upbeat family who were seeking a country retreat that exuded their modern, eclectic style. The original 28,000 square foot house was over a hundred years old with elegant bones but structural issues that required the structure to be almost completely rebuilt. The goal was to create a series of unique and contemporary interiors that would layer beautifully with the original architecture of the home. Nicole Fuller created room after room of grand, eye-popping spaces that, as a whole, still function as a cozy and intimate family home.

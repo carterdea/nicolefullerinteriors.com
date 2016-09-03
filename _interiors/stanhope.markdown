@@ -35,6 +35,7 @@ images:
 main_image: "/uploads/Nicole%20fuller%20Stanhope%20apartment%20modern%20interior%20design%20new%20york%20cream%20yellow%20living%20room.jpg"
 is_live: true
 layout: interior-detail
+redirect_from: "/Residential/Stanhope.html"
 ---
 
 The design of this full-floor residence aimed to complement its iconic, prestigious address. The client requested a “classic Fifth Avenue apartment” while also infusing the space with youthful elements through color and modern finishes. The resulting design is a jewel box of surprises, from a dining room lacquered in Chinese red to a luxurious master bedroom in shades of amethyst.

@@ -12,6 +12,7 @@ images:
 main_image: "/uploads/Nicole-Fuller-Interiors_Setai-Model3.jpg"
 is_live: true
 layout: interior-detail
+redirect_from: "/Commercial/Setai.html"
 ---
 
 The Setai Hotel, now The Langham Hotel, enlisted Nicole Fuller Interiors to design the hotel’s new luxury residential units. Fuller reconfigured the floor plans of each apartment and was involved in specifying hard finishes such as flooring, kitchen and bath materials, trim, and modern lighting. In staging the model unit, Fuller employed a calming, neutral color palette that would appeal to a wide audience of prospective international buyers.

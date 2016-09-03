@@ -21,6 +21,7 @@ awards:
 main_image: "/uploads/Kimore-Lee-Simmons-nyc-offices-nicole-fuller-interiors.jpg"
 layout: interior-detail
 is_live: true
+redirect_from: "/Commercial/KimoraLeeSimmons.html"
 ---
 
 Nicole Fuller Interiors was enlisted to design and rebrand the new offices for Kimora Lee Simmons International. The client requested a full departure from her previous brand image, opting for a refined and sophisticated office space with logo and color scheme to match. Fuller presented a palette of black, white, and aubergine with hints of nude pink to encapsulate the brand’s metropolitan femininity.  In addition to designs from Nicole Fuller’s signature furniture collection, Isabella Wolfe, bespoke furnishings and finishes are found throughout the office, from a custom rug designed in Nepal to a special art piece commissioned by photographer Steven Klein.

@@ -4,6 +4,10 @@ permalink: "/about/"
 position: 3
 hero_image: "/uploads/Nicole%20Fuller%20Interiors%20East%20Hampton%20home%20new%20york%20interior%20designer%202-407763.jpg"
 layout: about
+redirect_from:
+- "/about.html"
+- "/services.html"
+- "/awards.html"
 ---
 
 ## About Nicole Fuller Interiors

@@ -15,6 +15,7 @@ type: Commercial Interior Design
 main_image: "/uploads/Nicole-fuller-Interiors-Finn-Jewelry-showroom-commercial-retail-designer-2.jpg"
 is_live: true
 layout: interior-detail
+redirect_from: "/Commercial/Finn.html"
 ---
 
 The Finn Jewelry showroom was envisioned by Nicole Fuller Interiors out of a dark, empty industrial loft on Great Jones Street in the trendy downtown NoHo neighborhood. As a brand, Finn embodies youthful luxury by fashioning whimsical designs out of serious precious materials. Fuller designed a mixed use space that fits this aesthetic by combining French-inspired finishes with modern elements against the structural backdrop of a cool New York loft. The result is a hip and luxurious shopping environment suitable for their celebrity clientele. 
