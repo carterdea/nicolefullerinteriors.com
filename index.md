@@ -3,7 +3,7 @@ title: Home
 position: 0
 interiors_image: "/uploads/Nicole-Fuller-Interiors-stanhope-estate-master-bathroom-wood-marble-tub.jpg"
 products_image: "/uploads/Nicole-Fuller-Isabella-Wolfe-Imagine-Desk.jpg"
-about_image: "/uploads/Nicole%20Fuller%20Interiors%20purple%20office%20new%20york%20interior%20designer%203.jpg"
+about_image: "/uploads/Nicole_Fuller_Interior_Design_New_York_designer"
 hero_images:
 - image: "/uploads/RIGBY-Penthouse-apartment-17-EAST-12TH-STREET--886bdb.jpg"
   url: interiors/17-east-12th.html
