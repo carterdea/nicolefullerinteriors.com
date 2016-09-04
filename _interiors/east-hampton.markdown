@@ -4,7 +4,7 @@ date: 2016-07-06 02:36:00 Z
 position: 0
 location: East Hampton, NY
 type: Residential Interior Design
-thumbnail_image: "/uploads/East%20Hampton%20modern%20residence%20Nicole%20Fuller%20Interiors.jpg"
+thumbnail_image: "/uploads/Nicole_Fuller_Interior_Design_East_Hampton_white_beach_house_modern.jpg"
 images:
 - image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-white-cream-hamptons-new-york-designer.jpg"
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house.jpg"
