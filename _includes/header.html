@@ -10,12 +10,12 @@
             <span>&#10005;</span> Menu
           </a>
           <ul>
-          {% assign pages = site.pages | sort: 'position' %}
-          {% for page in pages %}
-            {% if page.title %}
-              <li><a href="{{page.url}}" class="page-link{% if page.url == url %} selected{% endif %}">{{page.title}}</a></li>
-            {% endif %}
-          {% endfor %}
+            {% assign pages = site.pages | sort: 'position' %}
+            {% for page in pages %}
+              {% if page.title %}
+                <li><a href="{{page.url}}" class="page-link{% if page.url == url %} selected{% endif %}">{{page.title}}</a></li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
     </nav>

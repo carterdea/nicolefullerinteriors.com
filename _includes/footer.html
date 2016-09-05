@@ -18,3 +18,17 @@
     </ul>
   </div>
 </footer>
+{% if site.google_analytics %}
+  <script>
+    (function(window, variableName) {
+      window.GoogleAnalyticsObject = variableName;
+      window[variableName] = window[variableName] || function() {
+        (window[variableName].q = window[variableName].q || []).push(arguments);
+      };
+      window[variableName].l = 1 * new Date();
+    })(window, 'ga');
+    ga('create', "{{ site.google_analytics }}");
+    ga('send', 'pageview');
+  </script>
+  <script async src='//www.google-analytics.com/analytics.js'></script>
+{% endif %}
