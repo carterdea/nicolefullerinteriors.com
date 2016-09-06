@@ -2,7 +2,7 @@
 title: Isabella Wolfe
 date: 2016-07-03 11:39:00 Z
 position: 1
-thumbnail_image: "/uploads/Isabella-Wolfe-Nicole-Fuller-interior-design-furniture-lavender-crystal-white-dining-room-0bc7cb.jpg"
+thumbnail_image: "/uploads/Isabella-Wolfe-Nicole-Fuller-interior-design-furniture-lavender-crystal-white-dining-room.jpg"
 logo_image: "/uploads/isabella-wolfe-logo.png"
 shop_url: http://www.isabellawolfe.com/home.html
 ---
