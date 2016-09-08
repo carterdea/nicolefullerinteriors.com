@@ -6,15 +6,15 @@ products_image: "/uploads/Nicole-Fuller-Isabella-Wolfe-Imagine-Desk.jpg"
 about_image: "/uploads/Nicole_Fuller_Interior_Designer_NYC_Interiors-7cdab4.jpg"
 hero_images:
 - image: "/uploads/RIGBY-Penthouse-apartment-17-EAST-12TH-STREET--886bdb.jpg"
-  url: interiors/17-east-12th.html
+  url: interiors/17-east-12th/
 - image: "/uploads/Nicole-Fuller-Florence-Fancy-New-York-Interior-designer-luxury-retail-design-c58ca7.jpg"
-  url: interiors/east-hampton.html
+  url: interiors/east-hampton/
 - image: "/uploads/Nicole-Fuller-INteriors-Suffern-estate-interior-design-fornasetti-wallpaper-kitchen.jpg"
-  url: interiors/suffern-estate.html
+  url: interiors/suffern-estate/
 - image: "/uploads/Nicole-Fuller-Interiors-Suffern-Estate-stairwell-octagon-dome-purple-chandeliers.jpg"
-  url: interiors/suffern-estate.html
+  url: interiors/suffern-estate/
 - image: "/uploads/Nicole-Fuller-Block-interior-designer-new-york-luxury-penthouse-design.jpg"
-  url: interiors/block-residence.html
+  url: interiors/block-residence/
 layout: index
 ---
 
