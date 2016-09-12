@@ -12,7 +12,7 @@ layout: about
 
 ## About Nicole Fuller Interiors
 
-Nicole Fuller Interiors is a full service interior design firm, specializing in luxury residential and commercial interiors. From ground-up construction to smaller decorative installations, the spaces created by Nicole Fuller and her team are powerful and always entirely unique. Nicole Fuller Interiors is best known for seamlessly layering contemporary and traditional motifs, and for bespoke finishes from custom furnishings to hand-painted wall treatments.
+Nicole Fuller Interiors is a full service interior design firm, specializing in luxury residential and commercial interiors. From ground-up construction to smaller decorative installations, the spaces created by Nicole Fuller and her team are powerful and always entirely unique. Nicole Fuller Interiors is best known for seamlessly layering contemporary and traditional motifs, and for bespoke finishes, from custom furnishings to hand-painted wall treatments.
 
 Fuller's designs do not adhere to any particular style, as every project and space is unique. Having a thirst for new challenges and a desire to push the boundaries, Fuller's refusal to accept the status quo is what drives her powerful sense of style. Continually allured with the ever-changing market of products and technology, Fuller is particularly adept at using cutting edge materials in original and innovative ways.
 
