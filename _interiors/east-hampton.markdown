@@ -4,7 +4,7 @@ date: 2016-07-06 02:36:00 Z
 position: 0
 location: East Hampton, NY
 type: Residential Interior Design
-thumbnail_image: "/uploads/Nicole_Fuller_Interior_Design_East_Hampton_white_beach_house_modern.jpg"
+thumbnail_image: "/uploads/East_Hampton_modern_residence_Nicole_Fuller_Interiors_white_hamptons_beach_house.jpg"
 images:
 - image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-white-cream-hamptons-new-york-designer.jpg"
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house.jpg"
@@ -14,10 +14,10 @@ images:
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-1-white-bedroom.jpg"
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-5-kids-bedroom-chevron-animal-heads.jpg"
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-3-marble-bathroom-mosaic-tile-freestanding-tub.jpg"
-- image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-Beach-House-neutral-Bohemian-interior-design-outdoor-living-room.jpg"
+- image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-outdoor-modern-porch-paola-lenti-designer.jpg"
 - image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-6-white-bathroom.jpg"
-- image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-Beach-House-neutral-Bohemian-interior-design-pool-99cc58.jpg"
-main_image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-2-c0dc70.jpg"
+- image: "/uploads/Nicole-Fuller-Interiors-East-Hampton-Beach-House-neutral-Bohemian-interior-design-pool.jpg"
+main_image: "/uploads/Nicole-Fuller-Interior-Designer-east-hampton-modern-bohemian-beach-house-2-07f5bd.jpg"
 awards:
 - Featured in LUXE Magazine - July 2016
 - Featured in Hamptons Magazine - July 2016
