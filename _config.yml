@@ -10,6 +10,8 @@ collections:
     - 
     images:
     - 
+    meta_description: Explore recent interior design projects by Nicole Fuller Interiors,
+      including NYC penthouse apartments, Hamptons residences, and commercial spaces.
   posts:
     title: Posts
     output: true
@@ -19,6 +21,8 @@ collections:
   products:
     title: Products
     output: false
+    meta_description: Browse commercial product designs by Nicole Fuller including
+      The Rug Company and Isabella Wolfe.
   uploads:
     title: Uploads
     output: true
@@ -37,7 +41,7 @@ markdown: kramdown
 permalink: pretty
 email: info@nicolefullerinteriors.com
 phone: "(646) 476-2996"
-description: Offices in New York City and Los Angeles
+footer_description: Offices in New York City and Los Angeles
 baseurl: 
 url: http://nicolefullerinteriors.com
 instagram_username: NicoleFullerInteriors
@@ -48,3 +52,6 @@ press_kit_url: "/uploads/Nicole Fuller Interiors Press Kit.pdf"
 google_analytics: UA-83656223-1
 gems:
 - jekyll-redirect-from
+description: Nicole Fuller Interiors is an international design company based in New
+  York City and Los Angeles, specializing in high-end residential and commercial design
+  projects.

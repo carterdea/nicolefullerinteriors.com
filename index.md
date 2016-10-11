@@ -15,6 +15,10 @@ hero_images:
   url: interiors/suffern-estate/
 - image: "/uploads/Nicole-Fuller-Block-interior-designer-new-york-luxury-penthouse-design.jpg"
   url: interiors/block-residence/
+meta_title: Nicole Fuller Interiors
+meta_description: Nicole Fuller Interiors is an international design company based
+  in New York City and Los Angeles, specializing in high-end residential and commercial
+  design projects.
 layout: index
 ---
 

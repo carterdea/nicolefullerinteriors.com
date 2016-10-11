@@ -7,6 +7,8 @@ redirect_from:
 - "/about.html"
 - "/services.html"
 - "/awards.html"
+meta_description: Nicole Fuller is an award-winning interior designer and product
+  designer with offices in New York and Los Angeles
 layout: about
 ---
 

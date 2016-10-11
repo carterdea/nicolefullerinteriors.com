@@ -9,6 +9,8 @@ press: natalie@nescreativeservices.com
 employment: careers@nicolefullerinteriors.com
 hero_image: "/uploads/Nicole-Fuller-Interior-Design-Suffern-Estate-Steven-Klein-horses-photgraphy-white-bedroom1.jpg"
 redirect_from: "/contact.php"
+meta_description: Contact Nicole Fuller Interiors by phone or email for information
+  about design services.
 layout: contact
 ---
 
