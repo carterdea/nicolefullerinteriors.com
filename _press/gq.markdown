@@ -1,6 +1,7 @@
 ---
 title: GQ
 date: 2016-09-09 02:51:00 Z
+position: 2
 publication: GQ
 article_title: 'STYLE: Summer''s Best Pools'
 publication_url: http://www.gq.com/story/summers-best-pools
