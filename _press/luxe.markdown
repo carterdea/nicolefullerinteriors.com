@@ -1,7 +1,7 @@
 ---
 title: Luxe
 date: 2016-07-30 21:35:00 Z
-position: 7
+position: 8
 article_title: 'THE HAMPTONS 50: Layered Luxe'
 publication: Luxe
 publish_date: 2016-07-20 00:00:00 Z

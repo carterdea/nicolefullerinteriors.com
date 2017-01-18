@@ -1,7 +1,7 @@
 ---
 title: Editor at Large
 date: 2017-01-18 01:14:00 Z
-position: 5
+position: 6
 publication: Editor at large
 article_title: 'THE RUG COMPANY: Nicole Fuller Launch Party'
 publication_url: https://www.editoratlarge.com/articles/6026/the-rug-company-celebrates-guest-designer-at-the-beatrice-inn
