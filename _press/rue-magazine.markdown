@@ -1,7 +1,7 @@
 ---
 title: Rue Magazine
 date: 2016-07-06 01:30:00 Z
-position: 19
+position: 22
 publication: Rue Magazine
 article_title: 'NO RULES: Nicole Fuller''s NYC Apartment'
 publish_date: 2015-01-20 00:00:00 Z
