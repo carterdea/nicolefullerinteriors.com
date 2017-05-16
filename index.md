@@ -16,13 +16,13 @@ hero_images:
 - image: "/uploads/Nicole-Fuller-Block-interior-designer-new-york-luxury-penthouse-design.jpg"
   url: interiors/block-residence/
 meta_title: Nicole Fuller Interiors
-meta_description: Nicole Fuller Interiors is an international design company based
-  in New York City and Los Angeles, specializing in high-end residential and commercial
-  design projects.
+meta_description: Nicole Fuller Interiors is an international interior design firm,
+  product designer, and art consultant based in New York City and Los Angeles specializing
+  in high-end residential and luxury commercial design projects.
 layout: index
 ---
 
 ## [About Nicole Fuller Interiors](/about/)
-Nicole Fuller Interiors is a multi-faceted interior design company based in New York City, specializing in high-end residential and commercial design projects in the US and abroad. A passionate designer, Nicole Fuller has acquired a list of savvy international clients who have an unwavering taste for luxury and an uncompromising attitude for high-quality design.
+Nicole Fuller Interiors is a multi-faceted interior design firm based in New York City and Los Angeles, specializing in high-end residential and commercial design projects in the US and abroad. A passionate designer, Nicole Fuller has acquired a list of savvy international clients who have an unwavering taste for luxury and an uncompromising attitude for high-quality design.
 
 [Read More About Nicole Fuller Interiors](/about/)
