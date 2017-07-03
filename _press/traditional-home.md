@@ -1,6 +1,6 @@
 ---
 title: Traditional Home
-position: 7
+position: 10
 publication: Traditional Home
 article_title: 'SPOTLIGHT: Nicole Fuller for The Rug Company'
 publication_url: 
