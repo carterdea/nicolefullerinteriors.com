@@ -1,6 +1,6 @@
 $(document).ready(function() {
   // function is_touch_device() {
-  //   return 'ontouchstart' in window;        // works on most browsers 
+  //   return 'ontouchstart' in window;        // works on most browsers
   //       // || navigator.maxTouchPoints;       // works on IE10/11 and Surface
   // }
 
@@ -24,13 +24,15 @@ $(document).ready(function() {
     $(this).fadeTo('slow', 1);
   });
 
-  $('.hero').unslider({
-    animation: 'fade',
-    arrows: false,
-    autoplay: true,
-    delay: 5000,
-    nav: false
-  });
+  if ( $('#selector').length ) {
+    $('.hero').unslider({
+      animation: 'fade',
+      arrows: false,
+      autoplay: true,
+      delay: 5000,
+      nav: false
+    });
+  }
 });
 
 $(window).on('load', function() {

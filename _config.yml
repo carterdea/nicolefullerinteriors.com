@@ -50,7 +50,7 @@ pinterest_username: nicolefullerint
 twitter_username: NicoleFullerInt
 press_kit_url: "/uploads/Nicole_Fuller_Interiors_Press_Kit.pdf"
 google_analytics: UA-83656223-1
-gems:
+plugins:
 - jekyll-redirect-from
 description: Nicole Fuller Interiors is an international design company based in New
   York City and Los Angeles, specializing in high-end residential and commercial design
