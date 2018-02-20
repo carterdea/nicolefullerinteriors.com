@@ -1,6 +1,6 @@
 ---
 title: Vogue
-position: 20
+position: 21
 publication: Vogue
 article_title: Expert Secrets to Selling Your Home Quickly
 publication_url: http://www.vogue.com/13419052/homes-preparing-to-sell-home-real-estate/

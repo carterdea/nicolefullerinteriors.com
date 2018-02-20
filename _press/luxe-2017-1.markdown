@@ -1,7 +1,7 @@
 ---
 title: Luxe 2017-1
 date: 2017-01-18 17:33:00 Z
-position: 9
+position: 10
 publication: Luxe
 article_title: '2017 GOLD LIST: Quotes by Nicole Fuller '
 publish_date: 2017-01-01 00:00:00 Z
