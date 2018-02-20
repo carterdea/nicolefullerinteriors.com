@@ -1,7 +1,7 @@
 ---
 title: Hamptons
 date: 2016-07-06 11:37:00 Z
-position: 12
+position: 14
 publication: Hamptons
 article_title: 'HAUTE HOME: Livable Luxe'
 publish_date: 2016-07-20 00:00:00 Z

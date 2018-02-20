@@ -1,7 +1,7 @@
 ---
 title: Robb Report
 date: 2016-07-04 14:47:00 Z
-position: 25
+position: 27
 publication: Robb Report Home & Style
 article_title: 'DESIGN SEEN: Isabella Wolfe'
 publication_url: 
