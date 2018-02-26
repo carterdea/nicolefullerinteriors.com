@@ -8,12 +8,12 @@ thumbnail_image: "/uploads/COVER---Gianvito-Rossi-showroom-Nicole-Fuller-commerc
 main_image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_20.jpg"
 images:
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_5.jpg"
-- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_14.jpg"
+- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_13.jpg"
   class: vertical left
-- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_17.jpg"
+- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_14.jpg"
   class: vertical right
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_16.jpg"
-- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_13.jpg"
+- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_17.jpg"
   class: vertical left
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_9.jpg"
   class: vertical right
@@ -23,10 +23,6 @@ images:
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_18.jpg"
   class: vertical right
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_12.jpg"
-- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_15.jpg"
-  class: vertical left
-- image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_8.jpg"
-  class: vertical right
 is_live: true
 layout: interior-detail
 ---
