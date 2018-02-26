@@ -1,6 +1,6 @@
 ---
 title: Gianvito Rossi
-date: 2018-02-25 23:03:00 Z
+date: 2018-02-24 23:03:00 Z
 position: 13
 location: Upper East Side, NYC
 type: Retail Design
