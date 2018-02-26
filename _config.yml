@@ -48,7 +48,7 @@ instagram_username: NicoleFullerInteriors
 facebook_url: 
 pinterest_username: nicolefullerint
 twitter_username: NicoleFullerInt
-press_kit_url: "/uploads/Nicole_Fuller_Interiors_Press_Kit.pdf"
+press_kit_url: https://www.dropbox.com/s/7trcxa47a2ql5v4/Nicole%20Fuller%20Press%20Kit%20-%20condensed.pdf
 google_analytics: UA-83656223-1
 plugins:
 - jekyll-redirect-from

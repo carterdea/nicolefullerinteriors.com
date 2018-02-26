@@ -1,7 +1,6 @@
 ---
 title: Soltz Residence
 date: 2016-07-06 02:25:00 Z
-published: false
 position: 4
 location: Tribeca, NYC
 type: Residential Interior Design
