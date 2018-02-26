@@ -1,7 +1,7 @@
 ---
 title: Finn Jewelry
 date: 2016-07-03 11:36:00 Z
-position: 8
+position: 9
 thumbnail_image: "/uploads/Finn%20Jewelry%20Cover%20Nicole%20Fuller%20Interiors.jpg"
 location: NoHo, NYC
 images:

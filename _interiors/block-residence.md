@@ -1,6 +1,6 @@
 ---
 title: Block Residence
-position: 10
+position: 11
 location: Lower 5th Ave, NYC
 type: Residential Interior Design
 thumbnail_image: "/uploads/Block-residence-5th-Avenue-Nicole-Fuller-Interiors.jpg"
