@@ -4,7 +4,7 @@ date: 2018-02-25 23:03:00 Z
 position: 13
 location: Upper East Side, NYC
 type: Retail Design
-thumbnail_image: "/uploads/COVER%20-%20Gianvito%20Rossi%20showroom%20Nicole%20Fuller%20commercial%20retail%20interior%20designer.jpg"
+thumbnail_image: "/uploads/COVER---Gianvito-Rossi-showroom-Nicole-Fuller-commercial-retail-interior-designer.jpg"
 main_image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_20.jpg"
 images:
 - image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_5.jpg"
