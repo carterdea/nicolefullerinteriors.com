@@ -3,7 +3,7 @@ title: Gianvito Rossi
 date: 2018-02-24 23:03:00 Z
 position: 13
 location: Upper East Side, NYC
-type: Retail Design
+type: Retail Interior Design
 thumbnail_image: "/uploads/COVER---Gianvito-Rossi-showroom-Nicole-Fuller-commercial-retail-interior-designer.jpg"
 main_image: "/uploads/Nicole_Fuller_Interiors_Gianvito_Rossi_shoe_showroom_NYC_20.jpg"
 images:
