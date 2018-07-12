@@ -550,7 +550,7 @@ footer p.copyright {
 .extra-interiors li .meta-data {
     align-items: center;
     display: flex;
-    flex:1; // Attempting fix iPad Safari bug: http://stackoverflow.com/questions/33502774/flexbox-not-working-on-ipad-and-safari
+    flex: 1; // Attempting fix iPad Safari bug: http://stackoverflow.com/questions/33502774/flexbox-not-working-on-ipad-and-safari
     height: 100%;
     justify-content: center;
     position: absolute;

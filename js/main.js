@@ -24,7 +24,7 @@ $(document).ready(function() {
     $(this).fadeTo('slow', 1);
   });
 
-  if ( $('#selector').length ) {
+  if ( $('.hero').length ) {
     $('.hero').unslider({
       animation: 'fade',
       arrows: false,

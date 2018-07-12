@@ -3,23 +3,25 @@
 
 The beginnings of the Nicole Fuller Site. We've made some progress, but still have lots to do!! The site is being sliced now.
 
-## Getting Started
-1. Install Ruby
-1. Install Jekyll
-1. Run `Jekyll Serve`
+## Requirements
+- Ruby
 
-Collections:
+## Getting Started
+1. Run `bundle`
+1. Run `jekyll serve`
+
+### Collections
 - Interiors
 - Products
 - Press
 
-Partials:
+### Partials
 - Header
 - Head
 - Footer
 - Bottom CTA (contact)
 
-*Layouts:*
+### Layouts
 - Page
 - Interior Detail
 - Interiors
