@@ -37,17 +37,10 @@ Nicole Fuller Interiors takes projects both large and small for residential and 
 Nicole Fuller is lauded for her bespoke approach to design and personal  sense of style that surges with creative fervor. A respected name in the interior design industry, Fuller has been rewarded for her talent and efforts with various prestigious nominations and awards, including:
 
 * Luxe Magazine Gold List, 2017
-
 * USA Property Awards - Best Interior Design Private Residence USA 2013-2014
-
 * USA Property Awards 5 Star Award - Best Interior Design Private Residence New York 2013-2014
-
 * USA Property Awards Best Retail Interior USA 2013-2014
-
 * USA Property Awards Best Retail Interior New York 2013-2014
-
 * Quintessentially Living, Vol. II
-
 * Andrew Martin Interior Design Review, Issue 14
-
 * Interior Design Review, Issue 12, International Interior Designer of the Year Award
