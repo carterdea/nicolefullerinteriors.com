@@ -1,6 +1,7 @@
 ---
 title: Baccarat
 date: 2018-08-30 20:34:00 Z
+published: false
 location: Manhattan, NY
 type: 'Residential Interior Design '
 thumbnail_image: "/uploads/9.2.jpg"
@@ -21,7 +22,7 @@ images:
 main_image: "/uploads/9.2.jpg"
 awards:
 - Featured on the cover of Luxe Magazine July/August 2018
-is_live: true
+is_live: false
 layout: interior-detail
 ---
 
