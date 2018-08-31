@@ -1,6 +1,7 @@
 ---
 title: Gleit Residence
 date: 2016-07-03 11:38:00 Z
+published: false
 position: 12
 thumbnail_image: "/uploads/Gleit%20Residence%20NYC%20Nicole%20Fuller%20Interiors.jpg"
 location: Chelsea, NYC
@@ -16,7 +17,7 @@ images:
 main_image: "/uploads/Nicole-Fuller-Interiors-Gleit-Residence-New-York-City-apartment-design-living-room-stripe-swivel-chair.jpg"
 awards:
 - Featured in New York Spaces - October 2015
-is_live: true
+is_live: false
 layout: interior-detail
 ---
 
