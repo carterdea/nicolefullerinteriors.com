@@ -1,5 +1,5 @@
 ---
-title: Baccarat
+title: Baccarat Hotel & Residences
 date: 2018-08-30 20:34:00 Z
 location: Manhattan, NY
 type: 'Residential Interior Design '
