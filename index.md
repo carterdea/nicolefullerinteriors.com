@@ -13,8 +13,8 @@ hero_images:
   url: interiors/suffern-estate/
 - image: "/uploads/Nicole-Fuller-Interiors-Suffern-Estate-stairwell-octagon-dome-purple-chandeliers.jpg"
   url: interiors/suffern-estate/
-- image: "/uploads/Nicole-Fuller-Block-interior-designer-new-york-luxury-penthouse-design.jpg"
-  url: interiors/block-residence/
+- image: "/uploads/1.2.jpg"
+  url: interiors/baccarat/
 meta_title: Nicole Fuller Interiors
 meta_description: Nicole Fuller Interiors is an international interior design firm,
   product designer, and art consultant based in New York City and Los Angeles specializing
