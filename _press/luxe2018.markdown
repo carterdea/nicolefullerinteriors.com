@@ -4,7 +4,7 @@ date: 2018-08-31 00:04:00 Z
 article_title: 'Private Viewing '
 publish_date: 2018-07-01 00:00:00 Z
 publication: Luxe Magazine
-thumbnail_image: "/uploads/cover-9e5eb5.jpg"
-fullsize_image: "/uploads/cover-9e5eb5.jpg"
+thumbnail_image: "/uploads/cover%20updated.jpg"
+fullsize_image: "/uploads/cover%20updated.jpg"
 ---
 
