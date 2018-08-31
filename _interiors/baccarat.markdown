@@ -3,7 +3,7 @@ title: Baccarat
 date: 2018-08-30 20:34:00 Z
 location: Manhattan, NY
 type: 'Residential Interior Design '
-thumbnail_image: "/uploads/5.2.jpg"
+thumbnail_image: "/uploads/5.3.jpg"
 images:
 - image: "/uploads/2.2.jpg"
 - image: "/uploads/3.2.jpg"
