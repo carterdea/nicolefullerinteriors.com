@@ -1,7 +1,7 @@
 ---
 title: Luxury Mag - spring 2016
 date: 2017-01-18 16:21:00 Z
-position: 17
+position: 19
 publication: Luxury Magazine
 article_title: 'NATURE TRANSFORMED: Natural Beauty Mirror'
 publish_date: 2016-05-01 00:00:00 Z

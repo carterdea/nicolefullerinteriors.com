@@ -1,7 +1,7 @@
 ---
 title: Modern Luxury
 date: 2016-07-06 01:27:00 Z
-position: 26
+position: 28
 publication: Modern Luxury
 article_title: LIVING in California
 publish_date: 2016-05-20 00:00:00 Z

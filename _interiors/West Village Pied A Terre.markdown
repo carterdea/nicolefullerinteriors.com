@@ -4,7 +4,7 @@ date: 2018-09-18 18:46:00 Z
 location: 'West Village '
 type: 'Residential  Interior Design '
 Field name: 
-thumbnail_image: "/uploads/thumbnail%20photo%205.jpg"
+thumbnail_image: "/uploads/thumbnail%20photo%204.jpg"
 images:
 - image: "/uploads/6.jpg"
 - image: "/uploads/4-c9ca37.jpg"

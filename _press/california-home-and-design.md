@@ -1,7 +1,7 @@
 ---
 title: California Home & Design
 date: 2016-07-05 23:01:00 Z
-position: 25
+position: 27
 publication: California Home & Design
 article_title: 'DESIGNER CRUSH: Nicole Fuller'
 publish_date: 2015-10-20 00:00:00 Z

@@ -1,7 +1,7 @@
 ---
 title: Genlux
 date: 2016-07-05 23:10:00 Z
-position: 30
+position: 32
 publication: Genlux
 article_title: 'JETSETTERS: A Fuller Life'
 publish_date: Summer 2015

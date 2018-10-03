@@ -1,7 +1,7 @@
 ---
 title: Invaluable
 date: 2017-06-15 14:56:00 Z
-position: 8
+position: 10
 article_title: 'In Good Taste: Nicole Fuller Interview'
 publications_url: https://www.invaluable.com/blog/designer-nicole-fuller-qa/
 publish_date: 2017-06-07 00:00:00 Z

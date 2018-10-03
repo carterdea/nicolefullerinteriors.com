@@ -1,7 +1,7 @@
 ---
 title: Luxe - October 2016
 date: 2016-11-11 19:04:00 Z
-position: 12
+position: 14
 article_title: 'OPEN HOUSE: An NYC Penthouse by Nicole Fuller Interiors'
 publication: Luxe
 publish_date: 2016-10-15 00:00:00 Z

@@ -1,6 +1,6 @@
 ---
 title: New York Spaces
-position: 24
+position: 26
 publication: New York Spaces
 article_title: Q&A with Interior Designer Nicole Fuller
 publication_url: http://www.newyorkspaces.com/article_/?article=Q-A-with-New-York-Based-Interior-Designer-Nicole-Fuller-20151018
