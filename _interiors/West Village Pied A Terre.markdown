@@ -14,6 +14,6 @@ images:
 - image: "/uploads/9-27e709.jpg"
 - image: "/uploads/12.jpg"
 main_image: "/uploads/thumbnail%20photo%205.jpg"
-is_live: true
+is_live: false
 ---
 
