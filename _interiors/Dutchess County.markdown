@@ -1,5 +1,5 @@
 ---
-title: Suffern Estate
+title: Dutchess County Estate
 date: 2016-07-06 01:42:00 Z
 position: 1
 location: Suffern, NY
