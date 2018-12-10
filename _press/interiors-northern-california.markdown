@@ -1,7 +1,7 @@
 ---
 title: Interiors - Northern California
 date: 2018-02-20 02:40:00 Z
-position: 4
+position: 9
 publication: Interiors - Northern California
 publish_date: 2018-01-01 00:00:00 Z
 article_title: 'SUPERSONIC BLONDE: Designer Nicole Fuller'

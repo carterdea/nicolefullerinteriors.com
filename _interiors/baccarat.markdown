@@ -9,7 +9,7 @@ images:
 - image: "/uploads/3.2.jpg"
 - image: "/uploads/4.2.jpg"
 - image: "/uploads/5.2.jpg"
-- image: "/uploads/6.4.jpg"
+- image: "/uploads/Bacca%20art.jpg"
 - image: "/uploads/7.2.jpg"
 - image: "/uploads/8.2.jpg"
 - image: "/uploads/9.2.jpg"

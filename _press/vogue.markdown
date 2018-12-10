@@ -1,7 +1,7 @@
 ---
 title: Vogue
 date: 2016-09-09 02:24:00 Z
-position: 15
+position: 20
 article_title: 'LIVING: Homes'
 publication_url: http://www.vogue.com/13466009/home-renovation-mistakes-diy-tips/
 publish_date: 2016-08-13 00:00:00 Z

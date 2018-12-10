@@ -1,7 +1,7 @@
 ---
 title: Luxe July/August 2018
 date: 2018-08-31 18:28:00 Z
-position: 1
+position: 6
 article_title: 'THE COVER STORY- PRIVATE VIEWING: EUROPEAN INFLUENCES, RICH TEXTURES
   AND STUNNING VIEWS IMBUE A MIDTOWN PIED-A-TERRE'
 publication_url: https://sandow.app.box.com/s/kafkn8kbzlxf8yyqd48ml021ivs962um

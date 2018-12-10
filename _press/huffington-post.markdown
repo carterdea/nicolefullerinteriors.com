@@ -1,7 +1,7 @@
 ---
 title: Huffington Post
 date: 2016-07-06 01:22:00 Z
-position: 29
+position: 34
 publication: Huffington Post
 article_title: 'FINEPHILIA: Designer Nicole Fuller'
 publish_date: 2015-08-20 00:00:00 Z
