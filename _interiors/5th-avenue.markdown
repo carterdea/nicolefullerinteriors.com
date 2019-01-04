@@ -1,6 +1,7 @@
 ---
 title: 5th Avenue
 date: 2018-12-18 16:47:00 Z
+published: false
 location: 'Midtown '
 type: 'Residential '
 thumbnail_image: "/uploads/thumbnail%201.jpg"
@@ -21,7 +22,7 @@ images:
 - image: "/uploads/14-e8451c.JPG"
 main_image: "/uploads/thumbnail%201.jpg"
 awards: '1stdibs Rooms of Distinction 2018 - Top 50 Designers '
-is_live: true
+is_live: false
 layout: interior-detail
 ---
 
