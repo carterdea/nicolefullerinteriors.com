@@ -5,7 +5,7 @@ position: 0
 publication_url: https://www.1stdibs.com/photo/nicole-fuller-interiors-transitional-living-room/3441012/
 publish_date: 2018-11-13 00:00:00 Z
 publication: Rooms of Distinction 2018
-thumbnail_image: "/uploads/rod%203.jpg"
-fullsize_image: "/uploads/rod%203.jpg"
+thumbnail_image: "/uploads/rod%20test%20complete.jpg"
+fullsize_image: "/uploads/rod%20test%20complete.jpg"
 ---
 
