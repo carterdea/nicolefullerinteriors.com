@@ -1,7 +1,7 @@
 ---
 title: Veranda
 date: 2016-07-04 14:35:00 Z
-position: 30
+position: 34
 publication: VERANDA
 article_title: 'HOME: Look Book'
 publish_date: 2015-10-20 00:00:00 Z

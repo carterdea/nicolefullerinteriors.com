@@ -2,6 +2,7 @@
 title: Luxe Magazine
 date: 2018-12-07 00:07:00 Z
 published: false
+position: 2
 publication: Luxe Magazine
 publish_date: 
 article_title: 'The Look '
