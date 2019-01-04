@@ -1,6 +1,7 @@
 ---
 title: Luxurylaunches
 date: 2019-01-03 17:40:00 Z
+published: false
 article_title: Savior beds has collaborated with designer Nicole Fuller for a stylish
   $31,000 bed
 publication_url: http://luxurylaunches.com/home_improvement/savior-beds-has-collaborated-with-designer-nicole-fuller-for-a-stylish-25000-bed.php
