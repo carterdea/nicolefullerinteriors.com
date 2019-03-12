@@ -1,6 +1,7 @@
 ---
 title: Luxe - Gold list
 date: 2019-02-19 23:50:00 Z
+position: 1
 article_title: 'People In Design '
 pubish_date: 2019-01-01 00:00:00 Z
 publication: 'Luxe Magazine '

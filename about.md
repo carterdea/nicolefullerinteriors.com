@@ -14,29 +14,41 @@ layout: about
 
 ## About Nicole Fuller Interiors
 
-Nicole Fuller Interiors is a full service interior design firm, specializing in luxury residential and commercial interiors. From ground-up construction to smaller decorative installations, the spaces created by Nicole Fuller and her team are powerful and always entirely unique. Nicole Fuller Interiors is best known for seamlessly layering contemporary and traditional motifs, and for bespoke finishes, from custom furnishings to hand-painted wall treatments.
-
-Fuller's designs do not adhere to any particular style, as every project and space is unique. Having a thirst for new challenges and a desire to push the boundaries, Fuller's refusal to accept the status quo is what drives her powerful sense of style. Continually allured with the ever-changing market of products and technology, Fuller is particularly adept at using cutting edge materials in original and innovative ways.
+Nicole Fuller Interiors is an award-winning design firm specializing in luxury interiors, product design, and art consulting. Clients receive an incomparable experience creating unique spaces, with an emphasis on client communication from start to finish. Adept at using cutting-edge materials in innovative ways, our designers believe that style has no status quo, and can coax elegance into any environment. 
 
 ![Nicole Fuller herself!](/uploads/about-nicole-photo.png)
 
 ## About Nicole Fuller
 
-Nicole Fuller is the Founder and Creative Director of Nicole Fuller Interiors, a New York based multi-faceted interior design company specializing in high-end residential and commercial design projects in the US and abroad. She is a recognized product designer, with multiple collaborations for international manufacturers, as well as an established art consultant with private entrée into the world's leading galleries and studios. Fuller has four International Property awards, two nominations for London’s prestigious Andrew Martin Designer of the Year award, and was listed by Vogue Magazine as an Interior Design Talent to Watch.
+Nicole Fuller, founder and principal of Nicole Fuller Interiors, is an award-winning luxury designer specializing in sophisticated, highly customized residential and commercial projects in the US and abroad. Based in New York with offices in Los Angeles, Nicole has cultivated a reputation for excellence with her domestic design projects including the Arch District Hotel in Downtown Los Angeles and the Baccarat Residences, as well as international partnerships with Dempsey & Carroll, Ann Sacks, Fromental, Savoir Beds, and The Rug Company, to name a few. An established art consultant with exclusive access to the world’s leading galleries and sought-after artists, Fuller’s talents extend to curating pieces meant to transform or elevate any space. Her work has earned four International Property awards, two nominations for London’s prestigious Andrew Martin Designer of the Year award, and was listed by Vogue Magazine as an Interior Design Talent to Watch.
 
-A passionate designer, Fuller has acquired a list of prestigious clients who have an unwavering taste for luxury and an uncompromising attitude toward high-quality design. Fuller’s primary objective is that her clients love the look and feel of their surroundings, and that each space she creates is purposeful and livable. She layers classic elements with modern pieces to create timeless, bespoke interiors.
+With a design modality that adheres not to one specific aesthetic but rather embodies a commitment to sophisticated taste and timeless style, Nicole has acquired a list of prestigious clients such as Gianvito Rossi, Zac Posen, and Usher. No challenge is too great; whether it is hand-painting wall treatments, creating custom furnishings or sourcing vintage accents, by layering classic elements with modern pieces, the spaces Nicole creates are luxurious and refined representations of her unparalleled commitment to visually dazzling and polished design. 
+
 
 ## Our Approach and Offerings
 
-Nicole Fuller’s work has covered a broad spectrum, from residential interiors to commercial and hospitality spaces, as well as collaborations with top real estate developers. Fuller's inspiration for design is piqued by her world travels and passion for art, history, and museum-quality furnishings. Incorporating these elements with a restrained hand allows Fuller to create statement spaces that exude luxury, modern glamour and global flair. Nicole Fuller Interiors offers *Interior Design*, *Interior Renovations* and *New Construction*, *Artistic Design*, *Product Design*, *Textile Design*, *Furniture Design*, *Graphic Design*, *Luxury Lifestyle*, and *Branding*.
+Nicole Fuller Interiors creates cohesive, sophisticated environments tailored to every client’s individual needs. Fuller’s work has covered a broad spectrum, from residential interiors to commercial and hospitality spaces, as well as collaborations with top real estate developers. Inspired by world travels, her passion for art, a fascination with history, and the beauty found in natural settings, Nicole’s firm incorporates elements such as color, texture, and dimension with a restrained hand, creating statement spaces that exude luxury, modern glamour, and global flair. 
 
-Nicole Fuller Interiors takes projects both large and small for residential and commercial spaces. Fuller creates limitless options with a custom approach. She not only satisfies the individual needs of each project and client, but aspires to exceed their expectations.
+## Services
+
+Architectural design and construction (residential, commercial, hospitality, retail)
+Interior Design
+Furniture Design
+Textile Design and/or selection
+Art Curation
+Graphic Design
+Product Development
+Brand Identity Development
+
+## Art Consulting
+
+Nicole has worked as an art advisor for her interior design clients since 2012.  In her role as an interior designer Nicole understands well that interior design and art are inextricably intertwined when creating/building the perfect room.  This is the case for her residential projects as well as her hospitality, retail and commercial environments.  She is skilled at making suggestions for her clients that are at once going to elevate the space and be a strong investment.
 
 ## Our Awards & Honors
 
-Nicole Fuller is lauded for her bespoke approach to design and personal  sense of style that surges with creative fervor. A respected name in the interior design industry, Fuller has been rewarded for her talent and efforts with various prestigious nominations and awards, including:
+A respected name in the interior design industry, Fuller has been rewarded with various prestigious nominations and awards, including:
 
-* Luxe Magazine Gold List, 2017
+* Luxe Magazine Gold List, 2017, 2018, 2019
 * USA Property Awards - Best Interior Design Private Residence USA 2013-2014
 * USA Property Awards 5 Star Award - Best Interior Design Private Residence New York 2013-2014
 * USA Property Awards Best Retail Interior USA 2013-2014
