@@ -31,14 +31,14 @@ Nicole Fuller Interiors creates cohesive, sophisticated environments tailored to
 
 ## Services
 
-Architectural design and construction (residential, commercial, hospitality, retail)
-Interior Design
-Furniture Design
-Textile Design and/or selection
-Art Curation
-Graphic Design
-Product Development
-Brand Identity Development
+* Architectural design and construction (residential, commercial, hospitality, retail)
+* Interior Design
+* Furniture Design
+* Textile Design and/or selection
+* Art Curation
+* Graphic Design
+* Product Development
+* Brand Identity Development
 
 ## Art Consulting
 
