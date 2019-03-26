@@ -1,7 +1,7 @@
 ---
 title: 17 East 12th
 date: 2016-07-06 02:40:00 Z
-position: 3
+position: 6
 thumbnail_image: "/uploads/17%20East%2012th%20Street%20Rigby%20Development%20Nicole%20Fuller%20Interiors-79cd0c.jpg"
 type: Commercial Development Staging
 location: Union Square, NYC

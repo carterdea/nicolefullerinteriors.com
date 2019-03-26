@@ -1,7 +1,7 @@
 ---
 title: KLS Offices
 date: 2016-07-06 02:28:00 Z
-position: 5
+position: 8
 type: Commercial Interior Design
 location: Chelsea, NYC
 thumbnail_image: "/uploads/Kimora%20Lee%20Simmons%20NYC%20Offices%20Nicole%20Fuller%20Interiors.jpg"

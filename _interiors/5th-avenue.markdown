@@ -2,6 +2,7 @@
 title: 5th Avenue
 date: 2018-12-18 16:47:00 Z
 published: false
+position: 0
 location: 'Midtown '
 type: 'Residential '
 thumbnail_image: "/uploads/thumbnail%201.jpg"

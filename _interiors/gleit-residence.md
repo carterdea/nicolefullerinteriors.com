@@ -2,7 +2,7 @@
 title: Gleit Residence
 date: 2016-07-03 11:38:00 Z
 published: false
-position: 12
+position: 15
 thumbnail_image: "/uploads/Gleit%20Residence%20NYC%20Nicole%20Fuller%20Interiors.jpg"
 location: Chelsea, NYC
 images:

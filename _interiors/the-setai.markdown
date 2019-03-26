@@ -2,7 +2,7 @@
 title: The Setai
 date: 2016-07-06 02:23:00 Z
 published: false
-position: 13
+position: 16
 location: 5th Avenue, NYC
 type: Commercial Hotel Staging
 thumbnail_image: "/uploads/The%20Setai%205th%20Avenue%20hotel%20residence%20Nicole%20Fuller%20Interiors-165fe1.jpg"

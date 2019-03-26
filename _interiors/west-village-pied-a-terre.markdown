@@ -1,6 +1,7 @@
 ---
 title: West Village Pied a Terre
 date: 2018-10-16 16:51:00 Z
+position: 4
 location: 'West Village, NY  '
 type: 'Residential Interior Design '
 thumbnail_image: "/uploads/thumbnail%20photo%204.jpg"
