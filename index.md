@@ -10,7 +10,7 @@ hero_images:
 - image: "/uploads/Nicole-Fuller-Florence-Fancy-New-York-Interior-designer-luxury-retail-design-c58ca7.jpg"
   url: interiors/east-hampton/
 - image: "/uploads/Nicole-Fuller-INteriors-Suffern-estate-interior-design-fornasetti-wallpaper-kitchen.jpg"
-  url: interiors/suffern-estate/
+  url: "/interiors/dutchess-county/"
 - image: "/uploads/Nicole-Fuller-Interiors-Suffern-Estate-stairwell-octagon-dome-purple-chandeliers.jpg"
   url: interiors/suffern-estate/
 - image: "/uploads/1.2.jpg"
