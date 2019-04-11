@@ -3,7 +3,7 @@ title: 5th Avenue
 date: 2019-03-26 20:17:00 Z
 location: Manhattan, New York
 type: 'Residential '
-thumbnail_image: "/uploads/6-00c745.jpg"
+thumbnail_image: "/uploads/DR%20resize-160ad5.jpg"
 images:
 - image: "/uploads/1.jpg"
 - image: "/uploads/4.jpg"
