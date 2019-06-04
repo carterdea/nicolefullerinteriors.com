@@ -4,15 +4,19 @@ date: 2018-10-16 16:51:00 Z
 position: 4
 location: 'West Village, NY  '
 type: 'Residential Interior Design '
-thumbnail_image: "/uploads/thumbnail%20photo%204.jpg"
+thumbnail_image: "/uploads/nicole-fuller-interior-design-west-village-pied-a-terre.jpg"
 images:
 - image: "/uploads/3-27fde2.jpg"
+  class: vertical left
 - image: "/uploads/4-c9ca37.jpg"
-- image: "/uploads/6.jpg"
+  class: 'vertical right '
 - image: "/uploads/9-27e709.jpg"
+- image: "/uploads/6.jpg"
+  class: vertical left
 - image: "/uploads/8-0ddcd8.jpg"
+  class: 'vertical right '
 - image: "/uploads/5-768d26.jpg"
-main_image: "/uploads/12-48e35e.jpg"
+main_image: "/uploads/Nicole-Fuller-Interior-Designer-pied-a-terre-main.jpg"
 is_live: true
 layout: interior-detail
 ---

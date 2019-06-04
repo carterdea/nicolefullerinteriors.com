@@ -3,19 +3,24 @@ title: 5th Avenue
 date: 2019-03-26 20:17:00 Z
 location: Manhattan, New York
 type: 'Residential '
-thumbnail_image: "/uploads/DR%20resize-160ad5.jpg"
+thumbnail_image: "/uploads/thumbnail%201.jpg"
 images:
-- image: "/uploads/1.jpg"
-- image: "/uploads/4.jpg"
+- image: "/uploads/nicole-fuller-interior-design-5th-ave-106.jpg"
+  class: vertical left
 - image: "/uploads/5.jpg"
-- image: "/uploads/7.jpg"
-- image: "/uploads/3.JPG"
+  class: vertical right
 - image: "/uploads/Patel%20new%20bedroom%20(edited).jpg"
-- image: "/uploads/9.jpg"
-- image: "/uploads/11.jpg"
+- image: "/uploads/7.jpg"
+  class: vertical left
+- image: "/uploads/6-00c745.jpg"
+  class: 'vertical right '
 - image: "/uploads/13.JPG"
+- image: "/uploads/9.jpg"
+  class: 'vertical left '
+- image: "/uploads/11.jpg"
+  class: vertical right
 - image: "/uploads/14.JPG"
-main_image: "/uploads/3.JPG"
+main_image: "/uploads/Nicole-Fuller-Interior-Designer-5th-ave-main.jpg"
 is_live: true
 awards: Featured in 1stdibs Rooms of Distinction 2018
 layout: interior-detail

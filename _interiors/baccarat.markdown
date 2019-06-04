@@ -4,20 +4,24 @@ date: 2018-08-30 20:34:00 Z
 position: 1
 location: Manhattan, NY
 type: 'Residential Interior Design '
-thumbnail_image: "/uploads/5.3.jpg"
+thumbnail_image: "/uploads/Nicole-Fuller-Interior-Design-Bacarat-Thumb.jpg"
 images:
 - image: "/uploads/2.2.jpg"
+  class: vertical left
+- image: "/uploads/13.2.jpg"
+  class: vertical right
+- image: "/uploads/5.2.jpg"
 - image: "/uploads/3.2.jpg"
 - image: "/uploads/4.2.jpg"
-- image: "/uploads/5.2.jpg"
-- image: "/uploads/Bacca%20art.jpg"
+- image: "/uploads/Baccarat%20art.jpg"
 - image: "/uploads/7.2.jpg"
+  class: vertical left
+- image: "/uploads/10.2.jpg"
+  class: vertical right
 - image: "/uploads/8.2.jpg"
 - image: "/uploads/9.2.jpg"
-- image: "/uploads/10.2.jpg"
 - image: "/uploads/11.2.jpg"
 - image: "/uploads/12.2.jpg"
-- image: "/uploads/13.2.jpg"
 main_image: "/uploads/1.2.jpg"
 awards:
 - Featured on the cover of Luxe Magazine July/August 2018
