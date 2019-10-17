@@ -1,6 +1,7 @@
 ---
 title: Wadwah
 date: 2016-07-06 01:48:00 Z
+published: false
 position: 13
 location: 5th Avenue, NYC
 type: Residential Interior Design
@@ -22,4 +23,4 @@ is_live: true
 layout: interior-detail
 ---
 
-The owners of this 5th Avenue residence requested a colorful, New York-chic pied-à-terre where they could hang up their coat when they come into town. Nicole Fuller Interiors furnished the space with custom designs, antique auction finds, jewel tones, and mixed metals which are a subtle nod to the clients' Indian heritage. Bespoke finishes abound, from luxurious window treatments to gold and silver leaf appliqué on Venetian plaster walls.
+The owner of this 5th Avenue residence requested a colorful, New York-chic pied-à-terre where they could hang up their coat when they come into town. Nicole Fuller Interiors furnished the space with custom designs, antique auction finds, jewel tones, and mixed metals which are a subtle nod to the clients' Indian heritage. Bespoke finishes abound, from luxurious window treatments to gold and silver leaf appliqué on Venetian plaster walls.

@@ -1,5 +1,6 @@
 ---
 title: Block Residence
+published: false
 position: 14
 location: Lower 5th Ave, NYC
 type: Residential Interior Design
