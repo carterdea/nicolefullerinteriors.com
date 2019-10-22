@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <h1>{{ page.title }}</h1>
+  {% if page.hero_image %}
+    <img src="{{ page.hero_image}}" alt="{{ page.title }}" class="hero">
+  {% endif %}
+  <div class="content">
+    {{ content }}
+    {% if site.press_kit_url %}
+      <a href="{{ site.press_kit_url }}" class="button press-kit">Download Press Kit</a>
+    {% endif %}
+  </div><!--.content-->
+</div><!--.wrapper-->

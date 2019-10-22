@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="{% if page.title %}{{ page.title | downcase | slugify }}{% elsif page.layout == 'index' %}home{% endif %} {{ page.layout }}">
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+  </body>
+</html>

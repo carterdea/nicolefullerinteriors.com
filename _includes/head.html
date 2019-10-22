@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.meta_title %}{{ page.meta_title | escape }}{% else %}{{ site.title | escape }} | Nicole Fuller Interiors{% endif %}</title>
+  <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/featherlight.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/unslider.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/unslider-dots.css" | prepend: site.baseurl }}">
+  <script src="{{ "/js/jquery-3.1.0.min.js" | prepend: site.baseurl }}"></script>
+  {% if page.layout == 'index' %}
+    <script async src="{{ "/js/unslider-min.js" | prepend: site.baseurl }}"></script>
+  {% endif %}
+  <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+  <script src="https://use.typekit.net/wdx5tpz.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

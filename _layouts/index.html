@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="hero">
+  <ul>
+  {% assign hero_images = page.hero_images | sort: 'position' %}
+  {% for hero_image in hero_images %}
+    <li style="background-image: url({{ hero_image.image }}); background-image: linear-gradient(to bottom, rgba(0,0,0,.5) 0, rgba(0,0,0,0) 20%), url({{ hero_image.image }});">
+      <a href="{{ hero_image.url }}"></a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+<div class="clearfix">
+  <div class="homepage-thumbnail interiors">
+    {% if page.interiors_image %}
+      <a href="/interiors/">
+        <img src="{{ page.interiors_image }}" alt="Interiors | Interior Design in New York City &amp; Los Angeles by Nicole Fuller Interiors" />
+      </a>
+    {% endif %}
+    <h2><a href="/interiors/">Interiors</a></h2>
+  </div><!--.homepage-thumbnail-->
+
+  <div class="homepage-thumbnail products">
+    {% if page.products_image %}
+      <a href="/products/">
+        <img src="{{ page.products_image }}" alt="Products | Product Lines by Nicole Fuller Interiors" />
+      </a>
+    {% endif %}
+    <h2><a href="/products/">Products</a></h2>
+  </div><!--.homepage-thumbnail-->
+</div><!--clearfix-->
+<div class="wrapper clearfix about">
+  {% if page.about_image %}
+    <a href="/about/" class="about-image">
+      <img src="{{ page.about_image }}" alt="Nicole Fuller on her desk at Nicole Fuller Interiors in New York City" />
+    </a>
+  {% endif %}
+  <div class="about-text">
+    {{content}}
+  </div>
+</div><!--wrapper-->

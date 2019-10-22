@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <h1>{{ page.title }}</h1>
+</div><!--.wrapper-->
+<div class="content clearfix">
+  <ul>
+    {% assign interiors = site.interiors | sort: 'position' %}
+    {% for interior in interiors %}
+      <li style="opacity: 0;">
+        {% if interior.is_live %}
+          <a href="{{ interior.url | prepend: site.baseurl }}">
+        {% endif %}
+          <div class="interior-detail {% unless interior.thumbnail_image  %}coming-soon{% endunless %}">
+            {% if interior.is_live %}
+              <img src="{{ interior.thumbnail_image }}" alt="{{interior.title}}">
+              <div class="meta-data">
+                <div> <!--this div is so I can center this stuff-->
+                  <h2>{{ interior.title }}</h2>
+                  <h3>{{ interior.location }}</h3>
+                </div>
+              </div><!--meta-data-->
+            {% else %}
+              <div class="meta-data">
+                <div> <!--this div is so I can center this stuff-->
+                  <h2>{{ interior.title }}</h2>
+                  <h3>Coming Soon</h3>
+                </div>
+              </div><!--meta-data-->
+            {% endif %}
+          </div><!--.interior-detail-->
+        {% if interior.is_live %}
+          </a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div><!--.content-->
+{% include bottom-cta.html %}
