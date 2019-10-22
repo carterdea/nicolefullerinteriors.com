@@ -12,7 +12,7 @@ images:
   class: vertical right
 - images: "/uploads/hbxt-nicolefuller-004-04-1565818582.jpg"
   class: vertical left
-is_live: true
+is_live: false
 layout: interior-detail
 ---
 
