@@ -10,6 +10,7 @@ images:
 - "/uploads/hbxt-nicolefuller-003-03-1565818582.jpg"
 - "/uploads/hbxt-nicolefuller-004-04-1565818582.jpg"
 is_live: true
+main_image: 
 layout: interior-detail
 ---
 
