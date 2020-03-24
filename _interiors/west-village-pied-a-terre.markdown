@@ -1,7 +1,7 @@
 ---
 title: West Village Pied a Terre
 date: 2018-10-16 16:51:00 Z
-position: 4
+position: 5
 location: 'West Village, NY  '
 type: 'Residential Interior Design '
 thumbnail_image: "/uploads/nicole-fuller-interior-design-west-village-pied-a-terre.jpg"

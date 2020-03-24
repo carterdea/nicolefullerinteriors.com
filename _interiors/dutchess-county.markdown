@@ -1,7 +1,7 @@
 ---
 title: Dutchess County Estate
 date: 2016-07-06 01:42:00 Z
-position: 2
+position: 3
 location: Suffern, NY
 type: Residential Interior Design
 thumbnail_image: "/uploads/Suffern%20Estate%20Kitchen%20Nicole%20Fuller%20Interiors.jpg"

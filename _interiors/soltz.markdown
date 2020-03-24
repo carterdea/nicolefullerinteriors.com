@@ -1,7 +1,7 @@
 ---
 title: Soltz Residence
 date: 2016-07-06 02:25:00 Z
-position: 7
+position: 8
 location: Tribeca, NYC
 type: Residential Interior Design
 thumbnail_image: "/uploads/Soltz%20residence%20NYC%20Nicole%20Fuller%20Interiors.jpg"

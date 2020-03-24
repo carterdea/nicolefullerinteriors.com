@@ -1,7 +1,7 @@
 ---
 title: East Hampton
 date: 2016-07-06 02:36:00 Z
-position: 3
+position: 4
 location: East Hampton, NY
 type: Residential Interior Design
 thumbnail_image: "/uploads/East_Hampton_modern_residence_Nicole_Fuller_Interiors_white_hamptons_beach_house.jpg"

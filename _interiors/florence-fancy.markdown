@@ -1,7 +1,7 @@
 ---
 title: Florence Fancy
 date: 2016-07-06 02:29:00 Z
-position: 5
+position: 6
 type: Retail Interior Design
 location: Upper East Side, NYC
 thumbnail_image: "/uploads/Florence%20Fancy%20Childrens%20Clothing%20Boutique%20Cover%20Nicole%20Fuller%20Interiors-2733ce.jpg"

@@ -1,7 +1,7 @@
 ---
 title: 60 East 13th
 date: 2016-07-03 11:33:00 Z
-position: 10
+position: 11
 thumbnail_image: "/uploads/60%20East%2013th%20Street%20private%20residence%20Nicole%20Fuller%20Interiors.jpg"
 location: University Place, NYC
 images:

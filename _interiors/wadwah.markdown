@@ -2,7 +2,7 @@
 title: Wadwah
 date: 2016-07-06 01:48:00 Z
 published: false
-position: 13
+position: 14
 location: 5th Avenue, NYC
 type: Residential Interior Design
 thumbnail_image: "/uploads/Wadwah%20residence%20NYC%20apartment%20Nicole%20Fuller%20Interiors.jpg"

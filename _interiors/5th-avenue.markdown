@@ -1,6 +1,7 @@
 ---
 title: 5th Avenue
 date: 2019-03-26 20:17:00 Z
+position: 0
 location: Manhattan, New York
 type: 'Residential '
 thumbnail_image: "/uploads/nicole-fuller-interiors-5th-ave-thumb.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Stanhope
 date: 2016-07-06 01:45:00 Z
-position: 11
+position: 12
 location: Upper East Side, NYC
 type: Residential Interior Design
 thumbnail_image: "/uploads/The%20Stanhope%20residence%20NYC%20Nicole%20Fuller%20Interiors.jpg"
